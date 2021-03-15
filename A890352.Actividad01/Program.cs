@@ -6,7 +6,9 @@ namespace A890352.Actividad01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hola mundo!");
+            Console.ReadKey();
+
         }
     }
 }
